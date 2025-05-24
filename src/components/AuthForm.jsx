@@ -46,8 +46,11 @@ export default function AuthForm() {
         if (!formData.pan) newErrors.pan = 'PAN required';
         if (!formData.aadhar) newErrors.aadhar = 'Aadhar required';
         if (formData.pan && !/^[A-Z]{5}[0-9]{4}[A-Z]{1}$/.test(formData.pan)) {
-          newErrors.pan = 'Invalid PAN format';
+          newErrors.pan = 'Invalid PAN format'; 
         }
+        else if (formData.pan && formData.pan.length !== 10) {
+          newErrors.pan = 'PAN must be 10 characters';}
+          
         if (formData.aadhar && !/^\d{12}$/.test(formData.aadhar)) {
           newErrors.aadhar = 'Invalid Aadhar number';
         }
