@@ -1,22 +1,4 @@
-Here’s your complete `README.md` file **including everything** in one place:
 
-* ✅ Project Description
-* ✅ Badges (React, Vercel, License, Status)
-* ✅ Features
-* ✅ Live Link Placeholder
-* ✅ Tech Stack
-* ✅ Folder Structure
-* ✅ Setup Instructions
-* ✅ Roadmap
-* ✅ Contribution Guide
-* ✅ Author Info
-* ✅ License (MIT – full text included)
-
----
-
-### 📄 Save the following content as `README.md` in your repo:
-
-```markdown
 # 🎟️ Quickett – A Fast & Secure Ticket Booking App
 
 
@@ -29,8 +11,7 @@ Developed during my **Celebal Summer Internship**, this project is focused on cr
 
 ## 🌐 Live Preview
 
-🚀 [Live on Vercel (Coming Soon)](#)  
-📁 [GitHub Repository](https://github.com/mohitkumar402/QUICKETT)
+
 
 ---
 
@@ -147,8 +128,8 @@ Contributions are welcome! Feel free to:
 ## 👨‍💻 Author
 
 **Mohit Kumar**
-🔗 [vercel](https://quickett.vercel.app/)
-💻 [GitHub](https://github.com/mohitkumar402)
+🚀 [vercel](https://quickett.vercel.app/)
+💻 [GitHub](https://github.com/mohitkumar402/QUICKETT)
 🔗 [LinkedIn](https://www.linkedin.com/in/mohit-kumar-851367168/)
 
 ---
@@ -193,6 +174,4 @@ Let’s build awesome things — together. 🌐
 `#Quickett` `#ReactFromScratch` `#NoLibraryChallenge` `#CSIInternship` `#FrontendWithPurpose`
 `#CustomParticles` `#DarkUI` `#DevJourney` `#BuiltInReact` `#CodeCooler`
 
-```
 
----
