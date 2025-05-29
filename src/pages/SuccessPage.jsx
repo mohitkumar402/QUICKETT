@@ -28,9 +28,14 @@ export default function SuccessPage() {
             )}
           </tbody>
         </table>
+        <div className='button-group'>  
         <button className="success-back-btn" onClick={() => navigate('/')}>
-          Back to Home
+          login
         </button>
+        <button className="success-home-btn" onClick={() => navigate('/homepage')}>
+         home
+         </button>
+         </div>
       </div>
     </div>
   );

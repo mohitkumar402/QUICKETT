@@ -12,6 +12,8 @@ function App() {
         <Routes>
          
           <Route path="/" element={<AuthForm />} />
+          <Route path="/homepage" element={<HomePage />} />
+
           <Route path="/success" element={<SuccessPage />} />
         </Routes>
       </Router>
